@@ -1,1 +1,1 @@
-# With this algorithm we remove duplicates elements in array (if any).
+# With this algorithm we remove duplicate elements in array (if any).
